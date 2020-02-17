@@ -1,0 +1,29 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.login-form {
+    border: red 4px solid;
+}
+
+.title-login {
+    text-align: center;
+}
+
+.body-form table {
+    width: 100%;
+}
+
+.form-input {
+    width: 80%;
+}
+.title-input {
+    text-align: center;
+}
+.submit-form {
+    margin: 5px 0 5px 0;
+    padding: 10px;
+    color: white;
+    background-color: red;
+}
